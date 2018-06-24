@@ -1,2 +1,6 @@
 # gitlab-api
-Alpine based docker image with python dependencies for GitLab API
+
+This Alpine based docker image contains some script to automate stuff after installing a fresh GitLab
+
+At the moment there are scripts to:
+- Create Personal Access Token
