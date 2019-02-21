@@ -11,5 +11,5 @@ At the moment there are scripts to:
     -e GITLAB_URL=http://gitlab.company.tld \
     -e GITLAB_ADMIN_USER=root \
     -e GITLAB_ADMIN_PASSWD=toor \
-    egeneralov/docker-gitlab-api
+    vikas027/docker-gitlab-api
 
